@@ -1,7 +1,7 @@
 /*
  * Projet : Connexion d'un ESP32 ou ESP8266 à InfluxDB
  * Description : Ce code utilise un ESP pour établir une connexion avec InfluxDB
- *               Il envoi chaque seconde une valeur aléatoire de température dans la base de données.
+ *               
  * Auteur : Richedor LALEYE (Adecola)
  * Date : 7 mars 2024
  * Version : 1
